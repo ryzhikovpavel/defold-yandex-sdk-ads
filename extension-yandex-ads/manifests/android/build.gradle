@@ -10,5 +10,5 @@ repositories {
 }
 
 dependencies {
-     implementation 'com.yandex.android:mobileads:7.0.1.0'
+     implementation 'com.yandex.android:mobileads:7.0.1'
 }
